@@ -1,0 +1,15 @@
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.deps.json
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.runtimeconfig.json
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.runtimeconfig.dev.json
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.dll
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.csprojAssemblyReference.cache
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.csproj.CoreCompileInputs.cache
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.RazorAssemblyInfo.cache
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.RazorAssemblyInfo.cs
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.AssemblyInfoInputs.cache
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.AssemblyInfo.cs
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.RazorTargetAssemblyInfo.cache
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.pdb
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.dll
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.2\WebAPIDemo.pdb
+D:\Dev projects\DGP\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.2\WebAPIDemo.dll.config
